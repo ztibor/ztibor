@@ -1,0 +1,14 @@
+D:\INFOKORR\NagyFranciska\Keszfeladatok\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\INFOKORR\NagyFranciska\Keszfeladatok\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\INFOKORR\NagyFranciska\Keszfeladatok\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\INFOKORR\NagyFranciska\Keszfeladatok\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\INFOKORR\NagyFranciska\Keszfeladatok\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\INFOKORR\NagyFranciska\Keszfeladatok\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+D:\INFOKORR\NagyFranciska\Keszfeladatok\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\INFOKORR\NagyFranciska\Keszfeladatok\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+D:\INFOKORR\NagyFranciska\Keszfeladatok\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+D:\INFOKORR\NagyFranciska\Keszfeladatok\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\INFOKORR\NagyFranciska\Keszfeladatok\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\INFOKORR\NagyFranciska\Keszfeladatok\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\INFOKORR\NagyFranciska\Keszfeladatok\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\INFOKORR\NagyFranciska\Keszfeladatok\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
