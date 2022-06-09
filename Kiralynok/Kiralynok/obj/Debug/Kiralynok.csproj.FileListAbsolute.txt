@@ -1,7 +1,0 @@
-D:\INFOKORR\NagyFranciska\Keszfeladatok\Kiralynok\Kiralynok\bin\Debug\Kiralynok.exe.config
-D:\INFOKORR\NagyFranciska\Keszfeladatok\Kiralynok\Kiralynok\bin\Debug\Kiralynok.exe
-D:\INFOKORR\NagyFranciska\Keszfeladatok\Kiralynok\Kiralynok\bin\Debug\Kiralynok.pdb
-D:\INFOKORR\NagyFranciska\Keszfeladatok\Kiralynok\Kiralynok\obj\Debug\Kiralynok.exe
-D:\INFOKORR\NagyFranciska\Keszfeladatok\Kiralynok\Kiralynok\obj\Debug\Kiralynok.pdb
-D:\INFOKORR\NagyFranciska\Keszfeladatok\Kiralynok\Kiralynok\obj\Debug\Kiralynok.csproj.AssemblyReference.cache
-D:\INFOKORR\NagyFranciska\Keszfeladatok\Kiralynok\Kiralynok\obj\Debug\Kiralynok.csproj.CoreCompileInputs.cache
