@@ -1,0 +1,14 @@
+D:\INFOKORR\NagyFranciska\Keszfeladatok\Kiralynok\Kiralynok\bin\Debug\Kiralynok.exe.config
+D:\INFOKORR\NagyFranciska\Keszfeladatok\Kiralynok\Kiralynok\bin\Debug\Kiralynok.exe
+D:\INFOKORR\NagyFranciska\Keszfeladatok\Kiralynok\Kiralynok\bin\Debug\Kiralynok.pdb
+D:\INFOKORR\NagyFranciska\Keszfeladatok\Kiralynok\Kiralynok\obj\Debug\Kiralynok.exe
+D:\INFOKORR\NagyFranciska\Keszfeladatok\Kiralynok\Kiralynok\obj\Debug\Kiralynok.pdb
+D:\INFOKORR\NagyFranciska\Keszfeladatok\Kiralynok\Kiralynok\obj\Debug\Kiralynok.csproj.AssemblyReference.cache
+D:\INFOKORR\NagyFranciska\Keszfeladatok\Kiralynok\Kiralynok\obj\Debug\Kiralynok.csproj.CoreCompileInputs.cache
+D:\erettmegold\!!!!OKJVizsgaFeladat2018-21_ruz_szvfejl\Rendszeruzemelteto\Programozas\Kiralynok\Kiralynok\Kiralynok\bin\Debug\Kiralynok.exe.config
+D:\erettmegold\!!!!OKJVizsgaFeladat2018-21_ruz_szvfejl\Rendszeruzemelteto\Programozas\Kiralynok\Kiralynok\Kiralynok\bin\Debug\Kiralynok.exe
+D:\erettmegold\!!!!OKJVizsgaFeladat2018-21_ruz_szvfejl\Rendszeruzemelteto\Programozas\Kiralynok\Kiralynok\Kiralynok\bin\Debug\Kiralynok.pdb
+D:\erettmegold\!!!!OKJVizsgaFeladat2018-21_ruz_szvfejl\Rendszeruzemelteto\Programozas\Kiralynok\Kiralynok\Kiralynok\obj\Debug\Kiralynok.csproj.AssemblyReference.cache
+D:\erettmegold\!!!!OKJVizsgaFeladat2018-21_ruz_szvfejl\Rendszeruzemelteto\Programozas\Kiralynok\Kiralynok\Kiralynok\obj\Debug\Kiralynok.csproj.CoreCompileInputs.cache
+D:\erettmegold\!!!!OKJVizsgaFeladat2018-21_ruz_szvfejl\Rendszeruzemelteto\Programozas\Kiralynok\Kiralynok\Kiralynok\obj\Debug\Kiralynok.exe
+D:\erettmegold\!!!!OKJVizsgaFeladat2018-21_ruz_szvfejl\Rendszeruzemelteto\Programozas\Kiralynok\Kiralynok\Kiralynok\obj\Debug\Kiralynok.pdb
