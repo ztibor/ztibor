@@ -1,0 +1,16 @@
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\EgyszamjatekGUI\bin\Debug\netcoreapp3.1\EgyszamjatekGUI.exe
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\EgyszamjatekGUI\bin\Debug\netcoreapp3.1\EgyszamjatekGUI.deps.json
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\EgyszamjatekGUI\bin\Debug\netcoreapp3.1\EgyszamjatekGUI.runtimeconfig.json
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\EgyszamjatekGUI\bin\Debug\netcoreapp3.1\EgyszamjatekGUI.runtimeconfig.dev.json
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\EgyszamjatekGUI\bin\Debug\netcoreapp3.1\EgyszamjatekGUI.dll
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\EgyszamjatekGUI\bin\Debug\netcoreapp3.1\EgyszamjatekGUI.pdb
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\EgyszamjatekGUI\obj\Debug\netcoreapp3.1\EgyszamjatekGUI.csproj.AssemblyReference.cache
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\EgyszamjatekGUI\obj\Debug\netcoreapp3.1\EgyszamjatekGUI.Form1.resources
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\EgyszamjatekGUI\obj\Debug\netcoreapp3.1\EgyszamjatekGUI.csproj.GenerateResource.cache
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\EgyszamjatekGUI\obj\Debug\netcoreapp3.1\EgyszamjatekGUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\EgyszamjatekGUI\obj\Debug\netcoreapp3.1\EgyszamjatekGUI.AssemblyInfoInputs.cache
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\EgyszamjatekGUI\obj\Debug\netcoreapp3.1\EgyszamjatekGUI.AssemblyInfo.cs
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\EgyszamjatekGUI\obj\Debug\netcoreapp3.1\EgyszamjatekGUI.csproj.CoreCompileInputs.cache
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\EgyszamjatekGUI\obj\Debug\netcoreapp3.1\EgyszamjatekGUI.dll
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\EgyszamjatekGUI\obj\Debug\netcoreapp3.1\EgyszamjatekGUI.pdb
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\EgyszamjatekGUI\obj\Debug\netcoreapp3.1\EgyszamjatekGUI.genruntimeconfig.cache
