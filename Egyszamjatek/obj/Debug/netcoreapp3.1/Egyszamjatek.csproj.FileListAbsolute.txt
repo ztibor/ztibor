@@ -1,0 +1,14 @@
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\Egyszamjatek\bin\Debug\netcoreapp3.1\Egyszamjatek.exe
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\Egyszamjatek\bin\Debug\netcoreapp3.1\Egyszamjatek.deps.json
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\Egyszamjatek\bin\Debug\netcoreapp3.1\Egyszamjatek.runtimeconfig.json
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\Egyszamjatek\bin\Debug\netcoreapp3.1\Egyszamjatek.runtimeconfig.dev.json
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\Egyszamjatek\bin\Debug\netcoreapp3.1\Egyszamjatek.dll
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\Egyszamjatek\bin\Debug\netcoreapp3.1\Egyszamjatek.pdb
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\Egyszamjatek\obj\Debug\netcoreapp3.1\Egyszamjatek.csproj.AssemblyReference.cache
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\Egyszamjatek\obj\Debug\netcoreapp3.1\Egyszamjatek.GeneratedMSBuildEditorConfig.editorconfig
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\Egyszamjatek\obj\Debug\netcoreapp3.1\Egyszamjatek.AssemblyInfoInputs.cache
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\Egyszamjatek\obj\Debug\netcoreapp3.1\Egyszamjatek.AssemblyInfo.cs
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\Egyszamjatek\obj\Debug\netcoreapp3.1\Egyszamjatek.csproj.CoreCompileInputs.cache
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\Egyszamjatek\obj\Debug\netcoreapp3.1\Egyszamjatek.dll
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\Egyszamjatek\obj\Debug\netcoreapp3.1\Egyszamjatek.pdb
+D:\erettmegold\2020_05_Minta_Inf_ism_kozep\KeszCS\Egyszamjatek\obj\Debug\netcoreapp3.1\Egyszamjatek.genruntimeconfig.cache

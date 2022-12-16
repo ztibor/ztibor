@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LQa9mKY0XZ6e0e5N4S6H4GMhPkHtJYbp4/4hG9sP5RUqrDTsIPi987DdQQiLSs/cfXfSnMbB8gW5YS3kig/Abg==",
+  "success": true,
+  "projectFilePath": "D:\\erettmegold\\2020_05_Minta_Inf_ism_kozep\\KeszCS\\Egyszamjatek\\Egyszamjatek.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ztibor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
