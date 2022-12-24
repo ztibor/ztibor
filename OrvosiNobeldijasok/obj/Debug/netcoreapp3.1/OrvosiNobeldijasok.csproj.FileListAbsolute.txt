@@ -1,0 +1,13 @@
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasok\bin\Debug\netcoreapp3.1\OrvosiNobeldijasok.exe
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasok\bin\Debug\netcoreapp3.1\OrvosiNobeldijasok.deps.json
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasok\bin\Debug\netcoreapp3.1\OrvosiNobeldijasok.runtimeconfig.json
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasok\bin\Debug\netcoreapp3.1\OrvosiNobeldijasok.runtimeconfig.dev.json
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasok\bin\Debug\netcoreapp3.1\OrvosiNobeldijasok.dll
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasok\bin\Debug\netcoreapp3.1\OrvosiNobeldijasok.pdb
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasok\obj\Debug\netcoreapp3.1\OrvosiNobeldijasok.csprojAssemblyReference.cache
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasok\obj\Debug\netcoreapp3.1\OrvosiNobeldijasok.AssemblyInfoInputs.cache
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasok\obj\Debug\netcoreapp3.1\OrvosiNobeldijasok.AssemblyInfo.cs
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasok\obj\Debug\netcoreapp3.1\OrvosiNobeldijasok.csproj.CoreCompileInputs.cache
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasok\obj\Debug\netcoreapp3.1\OrvosiNobeldijasok.dll
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasok\obj\Debug\netcoreapp3.1\OrvosiNobeldijasok.pdb
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasok\obj\Debug\netcoreapp3.1\OrvosiNobeldijasok.genruntimeconfig.cache
