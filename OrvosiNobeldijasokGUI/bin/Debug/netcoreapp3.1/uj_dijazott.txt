@@ -1,0 +1,2 @@
+Év;Név;SzületésHalálozás;Országkód
+1995;Tóth István;1955-2002;HU

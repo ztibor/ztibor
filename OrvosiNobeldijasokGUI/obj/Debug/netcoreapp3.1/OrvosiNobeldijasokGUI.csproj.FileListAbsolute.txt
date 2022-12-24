@@ -1,0 +1,16 @@
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasokGUI\bin\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.exe
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasokGUI\bin\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.deps.json
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasokGUI\bin\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.runtimeconfig.json
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasokGUI\bin\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.runtimeconfig.dev.json
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasokGUI\bin\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.dll
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasokGUI\bin\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.pdb
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.csproj.AssemblyReference.cache
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.Form1.resources
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.csproj.GenerateResource.cache
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.AssemblyInfoInputs.cache
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.AssemblyInfo.cs
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.csproj.CoreCompileInputs.cache
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.dll
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.pdb
+D:\erettmegold\202110_inf_ism_kozep\Kesz\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.genruntimeconfig.cache

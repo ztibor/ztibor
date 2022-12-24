@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R4VMTxEyUX09qImgDHSxMShJ2ECi89J0YRW2bkFSjG3DecsvhyXc3jQYxUbI0Gxwb8VpKld4/y2B0Fs4xkKvgA==",
+  "success": true,
+  "projectFilePath": "D:\\erettmegold\\202110_inf_ism_kozep\\Kesz\\OrvosiNobeldijasokGUI\\OrvosiNobeldijasokGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ztibor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
